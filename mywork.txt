@@ -1,0 +1,11 @@
+My associate id:
+845022
+Other team members:
+844987,844988,845135,844830
+Team lead:
+845022
+My Role in team:
+1. To develop homepage and viewOrder page
+My development files:
+1. Home.html
+2. vieworder.html
